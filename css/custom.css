@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Muli);
 
 body {
-  background-color: #120525;
+  background-image: url(svg/GEO_DATAONE.svg);
   font-family: 'Muli', Helvetica, Arial, sans-serif;
   color: #FFF;
 }
